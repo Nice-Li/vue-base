@@ -1,4 +1,8 @@
 # model2
+```
+vue2 fast model
+```
+
 
 ## Project setup
 ```
